@@ -1,3 +1,5 @@
 <?php
 
-echo ('Hello World!');
+require_once 'app/views/home/index.php';
+
+?>
